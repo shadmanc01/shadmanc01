@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **shadmanchowdhury01@gmail.com**
 
-- 📄 Know about my experiences [https://shadmanc.com]
+- 📄 Know about my experiences https://shadmanc.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
