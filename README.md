@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shadman Chowdhury</h1>
+<h1 align="center">Hey, I'm Shadman 👋</h1>
 <h3 align="center">Country Digital Product Specialist @ IKEA and natural-borne problem solver and passionate Full-Stack developer from New York City.</h3>
 
 - 🌱 I’m currently learning **Node.js, REACT, Python, Postgres**
