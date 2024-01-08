@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shadman Chowdhury</h1>
-<h3 align="center">A natural-borne problem solver and passionate Full-Stack developer from New York City.</h3>
+<h3 align="center">Country Digital Product Specialist @ IKEA and natural-borne problem solver and passionate Full-Stack developer from New York City.</h3>
 
 - 🌱 I’m currently learning **Node.js, REACT, Python, Postgres**
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **shadmanchowdhury01@gmail.com**
 
-- 📄 Know about my experiences https://docs.google.com/document/d/1KEai_m5bOoVpIunHZYMBjJMO3W9g87nLq_H6RAOWNVQ/edit?usp=sharing
+- 📄 Know about my experiences [https://shadmanc.com]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
